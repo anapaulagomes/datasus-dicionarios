@@ -20,7 +20,7 @@ APAC Fístula Arteriovenosa (ACFUFMM.DBF) | Produção Ambulatorial (SIA/SUS) | 
 APAC Diálise (ATDUFMM.DBF) | Produção Ambulatorial (SIA/SUS) | ftp://ftp.datasus.gov.br/dissemin/publicos/SIASUS/200801_/Doc/Informe_Tecnico_SIASUS_2019_07.pdf | Procedimentos de diálise ambulatorial
 Atenção Domiciliar (SAD*.DBF) | Produção Ambulatorial (SIA/SUS) | ftp://ftp.datasus.gov.br/dissemin/publicos/SIASUS/200801_/Doc/Informe_Tecnico_SIASUS_2019_07.pdf | Atendimentos realizados em domicílio
 Boletim de Produção Ambulatorial Individual (BIUFAAMM.DBF) | Produção Ambulatorial (SIA/SUS) | ftp://ftp.datasus.gov.br/dissemin/publicos/SIASUS/200801_/Doc/Informe_Tecnico_SIASUS_2019_07.pdf | Registro individualizado de procedimentos ambulatoriais
-Dados sobre mortalidade no país | Sistema de Informação sobre Mortalidade (SIM/SUS) | https://opendatasus.saude.gov.br/pt_BR/dataset/sim | 
+Dados sobre mortalidade no país | Sistema de Informação sobre Mortalidade (SIM/SUS) | [https://opendatasus.saude.gov.br/pt_BR/dataset/sim](https://diaad.s3.sa-east-1.amazonaws.com/sim/Mortalidade_Geral+-+Estrutura.pdf) | 
 
 _Legenda:_
 - APAC: Autorização de Procedimentos de Alta Complexidade
