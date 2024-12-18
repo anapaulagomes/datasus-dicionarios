@@ -33,3 +33,4 @@ _Legenda:_
 * https://wiki.saude.gov.br/sia/index.php/BPA
 * https://github.com/AlertaDengue/PySUS
 * https://github.com/rfsaldanha/microdatasus
+* [Código das UFs e municípios](https://www.ibge.gov.br/explica/codigos-dos-municipios.php)
