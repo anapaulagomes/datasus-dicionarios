@@ -28,9 +28,15 @@ _Legenda:_
 
 ## Links úteis
 
+### Dados e documentos relacionados
+
+* [Código das UFs e municípios](https://www.ibge.gov.br/explica/codigos-dos-municipios.php)
+* [Tabela de Etnias Indígenas Brasileiras](https://bvsms.saude.gov.br/bvs/sas/Links%20finalizados%20SAS%202010/prt0508_28_09_2010.html)
 * [Lista de atributos análogos](https://wiki.conass.org.br/index.php?title=Tabela_de_dom%C3%ADnio_atributos_(vari%C3%A1veis)_do_SUS)
-* https://opendatasus.saude.gov.br
 * https://wiki.saude.gov.br/sia/index.php/BPA
+* https://opendatasus.saude.gov.br
+
+### Ferramentas
+
 * https://github.com/AlertaDengue/PySUS
 * https://github.com/rfsaldanha/microdatasus
-* [Código das UFs e municípios](https://www.ibge.gov.br/explica/codigos-dos-municipios.php)
