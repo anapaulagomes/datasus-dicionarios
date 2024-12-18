@@ -28,6 +28,7 @@ _Legenda:_
 
 ## Links úteis
 
+* [Lista de atributos análogos](https://wiki.conass.org.br/index.php?title=Tabela_de_dom%C3%ADnio_atributos_(vari%C3%A1veis)_do_SUS)
 * https://opendatasus.saude.gov.br
 * https://wiki.saude.gov.br/sia/index.php/BPA
 * https://github.com/AlertaDengue/PySUS
