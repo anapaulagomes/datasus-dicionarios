@@ -25,6 +25,8 @@ ABP | Problema/Condição Avaliada. Mapeada para a Classificação Internacional
 ABEX | Exames solicitados/avaliados. Mapeada para a Tabela de Procedimentos, Medicamentos e OPM do SUS. | https://integracao.esusab.ufsc.br/ledi/documentacao/estrutura_arquivos/dicionario-fai.html#listaexames | Concedido via pedido de acesso a informação no [FalaBr](https://buscalai.cgu.gov.br/PedidosLai/DetalhePedido?id=8548477)
 ABPG | Procedimentos clínicos realizados. Mapeada para a Tabela de Procedimentos, Medicamentos e OPM do SUS. | https://integracao.esusab.ufsc.br/ledi/documentacao/estrutura_arquivos/dicionario-fp.html#procedimentos-da-ficha | Concedido via pedido de acesso a informação no [FalaBr](https://buscalai.cgu.gov.br/PedidosLai/DetalhePedido?id=8548477)
 ABPO | Procedimentos odontológicos realizados. Mapeada para a Tabela de Procedimentos, Medicamentos e OPM do SUS. | https://integracao.esusab.ufsc.br/ledi/documentacao/estrutura_arquivos/dicionario-fao.html#listaprocedimentosrealizados | Concedido via pedido de acesso a informação no [FalaBr](https://buscalai.cgu.gov.br/PedidosLai/DetalhePedido?id=8548477)
+Classificação Internacional de Doenças - 10a Revisão (CID-10) | Repositório de Terminologias em Saúde | https://rts.saude.gov.br/#/cid |
+Classificação Internacional de Atenção Primária - 2a Edição (CIAP-2) | Repositório de Terminologias em Saúde | https://rts.saude.gov.br/#/ciap2 | 
 
 _Legenda:_
 - APAC: Autorização de Procedimentos de Alta Complexidade
